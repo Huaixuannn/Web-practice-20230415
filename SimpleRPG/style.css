@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+canvas{
+    position: absolute;
+    top:20%;
+    right:50%;
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+}
+
+#talkBox{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    color: brown;
+    font-size: 36px;
+    font-weight: bold;
+}
