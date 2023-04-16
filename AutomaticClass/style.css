@@ -1,0 +1,16 @@
+tr:nth-child(odd) {
+    background-color: #62affb;
+    color: white;
+}
+  
+  /* 偶數列設定為黑色 */
+tr:nth-child(even) {
+    background-color: rgb(255, 210, 121);
+    color: white;
+}
+  
+/* 停課的列設定為灰色 */
+tr.breakRow {
+    background-color: rgb(157, 157, 157);
+    color: white;
+}

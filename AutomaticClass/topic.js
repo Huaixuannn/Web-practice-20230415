@@ -1,12 +1,6 @@
-let topic = [
-    "introduction",
-    "Lab1",
-    "國定假日",
-    "Lab2 & Lab3",
-    "Lab4"
-];
-
+let topic = [];
 let startDate = new Date();
+
 
 // function setMonthAndDay(startMonth, startDay){
 //     startDate.setMonth(startMonth-1,startDay);
