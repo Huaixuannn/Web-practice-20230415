@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h2{
+    /* 預留歌曲名稱顯示空間 */
+    height: 32px;
+    font-size: medium;
+}
+#playButton{
+    background-color: rgb(157, 44, 255);
+    border: 2px solid rgb(231, 203, 240);
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}

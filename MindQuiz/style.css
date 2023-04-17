@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    /* background-position: center; */
+}
+
+/* h1{
+    position: relative;
+    top: 33%;
+    left: 50%;
+    transform: translateX(-50%);
+} */
+
+#startButton {
+    /* position: absolute;
+    top: calc(33% + 60px);
+    left: 50%;
+    transform: translateX(-50%); */
+    background-color: pink;
+    border: 2px solid bisque;
+    border-radius: 50px;
+    width: 200px;
+    height: 60px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+  
+  
+  
+  
+  
+  

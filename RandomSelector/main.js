@@ -74,4 +74,5 @@ spinBtn.onclick = function () {
     $("img").attr("src",imageURL_ARRAY[randomDegree]);
     clearInterval(rotationInterval);
     }, 2000);
+    
 }
