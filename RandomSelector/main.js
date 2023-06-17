@@ -1,36 +1,4 @@
-// window.onload = function(){
-//     // alert("hi");
-// };
 
-// let imageURL_ARRAY = [
-//     "https://storage.googleapis.com/www-cw-com-tw/article/202101/article-5ff76e12dff12.jpg",
-//     "https://cpok.tw/wp-content/uploads/2023/01/unnamed-file-12.png",
-//     "https://storage.googleapis.com/cw-com-tw/article/201805/article-5b0f62dfa1a57.jpg"
-// ];
-
-// var previous = -1
-
-// $(function(){
-//     $("input").on("click",function(){
-//         // alert("hi");
-//         // $("h1").text("Hello");
-//         // $("h1").text($("li:first").text()); // 輸出h1的第一列文字
-//         var numberOfListItem = $("li").length; // 清單項目的數量
-//         // ramdom() => (0~1)*(0~3) 
-//         // floor => 取向下整數
-        
-//         var randomChildNumber = Math.floor(Math.random()*numberOfListItem); 
-//         // 不與上一筆重複
-//         while(randomChildNumber ==  previous){
-//             randomChildNumber = Math.floor(Math.random()*numberOfListItem);
-//         };
-//         previous = randomChildNumber;
-
-//         $("h1").text($("li").eq(randomChildNumber).text()); // eq()從0開始
-//         // change image -> chang image element's src
-//         $("img").attr("src",imageURL_ARRAY[randomChildNumber]);
-// });
-// })
 
 let container = document.querySelector(".container");
 let spinBtn = document.getElementById("spin");
