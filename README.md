@@ -7,4 +7,4 @@ Some web writing practice
 * MindQuiz - Simple psychological test  
 * RandomSelector - Simple random food turntable  
 * SimpleRPG - Small Web RPG  
-* ytPlayer - A simple youtube player connected to Youtube API
+* ytPlayer - A simple youtube player connected to Youtube API  
